@@ -3,7 +3,7 @@ import CreateAccount from './components/CreateAccount/CreateAccount';
 
 function App() {
   return (
-    <div className="App">
+    <div>
        <CreateAccount></CreateAccount>
     </div>
   );
